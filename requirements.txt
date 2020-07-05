@@ -6,3 +6,4 @@ jupyter
 notebook
 janome
 beautifulsoup4
+sklearn
