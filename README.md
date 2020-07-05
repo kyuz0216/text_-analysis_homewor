@@ -35,3 +35,4 @@ pip install -r requirements.txt
 * notebook(6.3)
 * janome(0.3.10)
 * beautifulsoup4(4.9.1)
+* sklearn(0.0)
