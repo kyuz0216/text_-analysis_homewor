@@ -1,8 +1,8 @@
-# text_analysis_homewor
+# text_analysis_homework
 
 ## Description
-システム論実習 テキスト分析の課題リポジトリ
-
+火曜2,3限システム論実習「テキスト分析」の課題リポジトリ  
+テキスト分析課題１ -> homework1.ipynb
 
 ## Overview
 青空文庫の文書を用いて、テキスト分析を行いました。  
