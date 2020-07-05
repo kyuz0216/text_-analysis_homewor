@@ -1,4 +1,4 @@
-# text_analysis_homewor
+# text_analysis_homework
 
 ## Description
 火曜2,3限システム論実習「テキスト分析」の課題リポジトリ  
