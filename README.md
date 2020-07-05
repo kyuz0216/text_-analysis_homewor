@@ -1,7 +1,7 @@
 # text_analysis_homewor
 
 ## Description
-システム論実習 テキスト分析課題リポジトリ
+システム論実習 テキスト分析の課題リポジトリ
 
 
 ## Overview
